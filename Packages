@@ -1,20 +1,19 @@
-Package: Ayden.appstoreplus
-Version: 0.9.18
+Package: Ayden.微信助手
+Version: 3.3.9-1
 Architecture: iphoneos-arm
 Maintainer: Ayden
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: debs/appstoreplus.deb
+Filename: debs/com.25mao.miyou_3.3-9.1_iphoneos-arm.deb
 Size: 2001620
 MD5sum: 8bf32db688ae89716ec0ae3e83eef627
 SHA1: 2bd5ffc703b654ac9c2f178c6eaba6763ceb19bf
 SHA256: 12b74b3a4bdeb089636cb6447c566cd862ac5d59acff5fcdb3bcfd050ad9ef87
 Section: Tweaks
-Description: App Store应用降级，支持解除200M下载限制,开启无视200M下载具体操作如下,安装完成之后进入商店 按住头像,弹出设置界面，勾选3G/4G即可,依赖源https://cokepokes.github.io/14.8可用<来自小苹果源>
-A12: 1
+Description: 老猫微信助手
 Author: CokePokes
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Icon2: 12.png
-Name: AppStore降级工具
+Name: 微信助手3.3.9-1
 Sponsor: Ayden
 
 
