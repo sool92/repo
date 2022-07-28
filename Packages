@@ -16,4 +16,9 @@ Icon2: 12.png
 Name: 微信助手3.3.9-1
 Sponsor: Ayden
 
-
+Package: Ayden.微信助手1
+Version: 3.3.9-1
+Architecture: iphoneos-arm
+Maintainer: Ayden
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: debs/com.25mao.miyou_3.3-9.1_iphoneos-arm.deb
